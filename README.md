@@ -3,9 +3,7 @@
 [![awesome plugin](https://custom-icon-badges.demolab.com/static/v1?label=&message=awesome+plugin&color=F4F4F5&style=for-the-badge&logo=cheshire_cat_black)](https://)
 
 
-
-![image](https://github.com/ethanlacerenza/Mad-Hatter/assets/71321892/c5a46c6a-e11e-4de7-8a07-398d42610396)
-
+![image](https://github.com/ethanlacerenza/Mad-Hatter/assets/71321892/3fe38502-895b-4ab4-8a2d-54817422a3af)
 
 
 This simple yet powerful Catshire AI plugin, known as the 'MadHatter Security Assistant,' is not just an ordinary addition to your cybersecurity toolkit—it's a virtual guardian with a whimsical touch. This eccentric assistant possesses an array of capabilities aimed at enhancing cybersecurity awareness and providing invaluable guidance to users navigating the intricate landscape of online security.
