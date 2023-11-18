@@ -1,26 +1,19 @@
-# My plugin
+# Mad Hatter Security Asssistant 
 
-[![awesome plugin](https://custom-icon-badges.demolab.com/static/v1?label=&message=awesome+plugin&color=383938&style=for-the-badge&logo=cheshire_cat_ai)](https://)  
-[![Awesome plugin](https://custom-icon-badges.demolab.com/static/v1?label=&message=Awesome+plugin&color=000000&style=for-the-badge&logo=cheshire_cat_ai)](https://)  
 [![awesome plugin](https://custom-icon-badges.demolab.com/static/v1?label=&message=awesome+plugin&color=F4F4F5&style=for-the-badge&logo=cheshire_cat_black)](https://)
 
-Write here all the useful information about your plugin.
 
-This repository is the template to automate the release of official Cheshire Cat AI plugins. 
 
-## Usage
+![image](https://github.com/ethanlacerenza/Mad-Hatter/assets/71321892/c5a46c6a-e11e-4de7-8a07-398d42610396)
 
-1. Create a new repository clicking on the `Use this template` button.
-2. Clone your new repo directly in the Cat's `plugins` folder.
-3. Run the `setup.py` script:
-```bash
-python setup.py
-```
-The script will prompt you to write the name of your plugin and make an initial setup setting the name in the files.
 
-4. Start developing!
 
-> **Important**
-> A new release of your plugin is triggered every time you set a new `version` in the `plugin.json` file.
-> Please, remember to set it correctly every time to want to release an update.
+This simple yet powerful Catshire AI plugin, known as the 'MadHatter Security Assistant,' is not just an ordinary addition to your cybersecurity toolkit—it's a virtual guardian with a whimsical touch. This eccentric assistant possesses an array of capabilities aimed at enhancing cybersecurity awareness and providing invaluable guidance to users navigating the intricate landscape of online security.
+
+
+Additionally, this virtual assistant excels in educating users about the ever-evolving cyber threats. It provides not only timely alerts but also detailed explanations, making cybersecurity concepts accessible to users of all levels of expertise. Its interactive nature engages users in a dialogue, ensuring that the learning process is both informative and enjoyable.
+
+Furthermore, the 'MadHatter Security Assistant' is equipped with the capability to recommend best practices for secure online behavior. From password management to recognizing phishing attempts, this assistant acts as a digital mentor, guiding users through the Wonderland of cybersecurity with practical and actionable advice.
+
+In essence, the 'MadHatter Security Assistant' transcends the conventional boundaries of a cybersecurity plugin, embodying a virtual ally dedicated to enhancing users' awareness and fortifying their digital defense strategies
 
