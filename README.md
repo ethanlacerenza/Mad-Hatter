@@ -6,7 +6,7 @@
 ![image](https://github.com/ethanlacerenza/Mad-Hatter/assets/71321892/3fe38502-895b-4ab4-8a2d-54817422a3af)
 
 
-This simple yet powerful Catshire AI plugin, known as the 'MadHatter Security Assistant,' is not just an ordinary addition to your cybersecurity toolkit—it's a virtual guardian with a whimsical touch. This eccentric assistant possesses an array of capabilities aimed at enhancing cybersecurity awareness and providing invaluable guidance to users navigating the intricate landscape of online security.
+This simple yet powerful Cashire Cat AI plugin, known as the 'MadHatter Security Assistant,' is not just an ordinary addition to your cybersecurity toolkit—it's a virtual guardian with a whimsical touch. This eccentric assistant possesses an array of capabilities aimed at enhancing cybersecurity awareness and providing invaluable guidance to users navigating the intricate landscape of online security.
 
 
 Additionally, this virtual assistant excels in educating users about the ever-evolving cyber threats. It provides not only timely alerts but also detailed explanations, making cybersecurity concepts accessible to users of all levels of expertise. Its interactive nature engages users in a dialogue, ensuring that the learning process is both informative and enjoyable.
