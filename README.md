@@ -17,4 +17,5 @@ In essence, the 'MadHatter Security Assistant' transcends the conventional bound
 
 ### Usage
 
-<img width="1325" alt="image" src="https://github.com/ethanlacerenza/Mad-Hatter/assets/71321892/bc8cf836-0722-4008-b9ff-9e162ae37c6b">
+<img width="1202" alt="image" src="https://github.com/ethanlacerenza/Mad-Hatter/assets/71321892/5e0ea6f9-cb4e-4537-9bb5-02016d8c53e2">
+
