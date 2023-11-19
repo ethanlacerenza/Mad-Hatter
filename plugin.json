@@ -1,10 +1,10 @@
 {
-    "name": "My plugin",
-    "version": "0.0.1",
-    "description": "Description of my_plugin.",
-    "author_name": "Me",
-    "author_url": "https://mywebsite.me",
-    "plugin_url": "https://github.com/my_name/my_plugin",
-    "tags": "cat, template, example",
-    "thumb": "https://raw.githubusercontent.com/my_repo_path/my_plugin.png"
+    "name": "Mad Hatter Security Assistant",
+    "version": "1.0.1",
+    "description": "Simple and Eccentric Security Assistant",
+    "author_name": "Ethan Lacerenza",
+    "author_url": "https://github.com/ethanlacerenza",
+    "plugin_url": "https://github.com/ethanlacerenza/Mad-Hatter",
+    "tags": "CyberSecurity, Assistant, Awareness",
+    "thumb": "https://user-images.githubusercontent.com/71321892/284013838-3fe38502-895b-4ab4-8a2d-54817422a3af.png"
 }
