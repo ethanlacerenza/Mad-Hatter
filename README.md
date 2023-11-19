@@ -15,3 +15,6 @@ Furthermore, the 'MadHatter Security Assistant' is equipped with the capability 
 
 In essence, the 'MadHatter Security Assistant' transcends the conventional boundaries of a cybersecurity plugin, embodying a virtual ally dedicated to enhancing users' awareness and fortifying their digital defense strategies
 
+### Usage
+
+<img width="1325" alt="image" src="https://github.com/ethanlacerenza/Mad-Hatter/assets/71321892/bc8cf836-0722-4008-b9ff-9e162ae37c6b">
